@@ -9,7 +9,7 @@ This is a quiz template where a set time is given for all questions and each wro
 ![Alt text](https://github.com/CleanupS20/Code-Quiz/blob/main/assets/website%20Screenshot.gif)
 
 ## Site
-
+https://cleanups20.github.io/Code-Quiz/
 
 ## Installation
 
